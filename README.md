@@ -2,4 +2,5 @@
 
 Currently studing Data analytics at ATU Galway Mayo
 
-![giphy](https://user-images.githubusercontent.com/110190460/229319606-030c8161-4f03-4073-b763-f1ba96478f9a.gif)
+![giphy 320 320](https://user-images.githubusercontent.com/110190460/229319678-ffbe72e0-d2f3-423a-a7cf-57a554865d86.gif)
+

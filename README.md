@@ -1,7 +1,7 @@
 ### Hi there, I am Jaime!
-
-Currently studing Data analytics at ATU Galway Mayo
-
-![giphy 270 270](https://user-images.githubusercontent.com/110190460/229319688-778fdf27-e0d9-4ffc-a53f-f01e18601073.gif)
+I have a degree in Economics and am currently studying for a Higher Diploma in Data Analytics at the Atlantic Technological University in Galway.
 
 
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a><a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>

@@ -11,6 +11,7 @@ I have a degree in Economics and am currently studying for a Higher Diploma in D
 <a href="https://scikit-learn.org/stable/">
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
 </a>
-  
-
+  <a href="https://www.sqlite.org/index.html">
+  <img src="https://github.com/devicons/devicon/raw/master/icons/sqlite/sqlite-original-wordmark.svg" alt="sqlite" width="40" height="40"/>
+</a>
 

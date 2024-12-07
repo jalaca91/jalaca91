@@ -1,5 +1,5 @@
 ### Hi there, I am Jaime!
-I have a degree in Economics and am currently studying for a Higher Diploma in Data Analytics at the Atlantic Technological University in Galway.
+Currently studying a HDIP in Data Analytics at the ATU Galway and working as special operations role, working with | Power BI | Excel | SQL
 
 
 

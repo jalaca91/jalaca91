@@ -1,5 +1,5 @@
 ### Hi there, I am Jaime!
-Currently studying a HDIP in Data Analytics at the ATU Galway and working as special operations role, working with | Power BI | Excel | SQL
+Recently graduated with a Graduate Higher Diploma in Data Analytics from ATU Galway, currently working in a Special Operations role with hands-on experience in Power BI, Excel, and SQL.
 
 
 
